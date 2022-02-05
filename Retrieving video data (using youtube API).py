@@ -14,7 +14,7 @@ from IPython.display import display
 
 
 #keys
-API_KEY = "AIzaSyD-Lq1RGytFee9mphx10YV7kgNV8lQ2SmU"
+API_KEY = "PLACE YOUR KEY HERE"
 CHANNEL_ID = "UCZqSxKHQmsEUwGuAIEMxTzQ"
 
 #First, we add our API key that’s stored in the API_KEY variable in this key parameter.
